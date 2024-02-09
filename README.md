@@ -9,6 +9,7 @@ Automate the creation of YouTube Shorts locally, simply by providing a video top
 ## Installation 📥
 
 ```bash
+git clone https://github.com/FujiwaraChoki/MoneyPrinter.git YTShortsGenerator/
 git clone https://github.com/dlyman545/YTShortsGenerator.git
 cd YTShortsGenerator
 
