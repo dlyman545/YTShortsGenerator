@@ -9,22 +9,22 @@ Automate the creation of YouTube Shorts locally, simply by providing a video top
 ## Installation 📥
 
 ```bash
-git clone https://github.com/FujiwaraChoki/MoneyPrinter.git
-cd MoneyPrinter
+git clone https://github.com/dlyman545/YTShortsGenerator.git
+cd YTShortsGenerator
 
 # Install requirements
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 # Copy .env.example and fill out values
 cp .env.example .env
 
 # Run the backend server
 cd Backend
-python main.py
+python3 main.py
 
 # Run the frontend server
 cd ../Frontend
-python -m http.server 3000
+python3 -m http.server 3000
 ```
 
 See [`.env.example`](.env.example) for the required environment variables.
