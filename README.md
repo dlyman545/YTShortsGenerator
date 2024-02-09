@@ -1,4 +1,4 @@
-# MoneyPrinter 💸
+# YTShortsGenerator 💸
 
 Automate the creation of YouTube Shorts locally, simply by providing a video topic to talk about.
 
@@ -71,7 +71,7 @@ For videos that have been locked as private due to upload via an unverified API 
 
 ## Donate 🎁
 
-If you like and enjoy `MoneyPrinter`, and would like to donate, you can do that by clicking on the button on the right hand side of the repository. ❤️
+If you like and enjoy `YTShortsGenerator`, and would like to donate, you can do that by clicking on the button on the right hand side of the repository. ❤️
 You will have your name (and/or logo) added to this repository as a supporter as a sign of appreciation.
 
 ## Contributing 🤝
